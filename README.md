@@ -1,5 +1,3 @@
-Description of your approach in the github url link
-
 The approach used in the java program is:
 
 As I am required to create a file copy program that works exactly like a windows file copy
